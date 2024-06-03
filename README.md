@@ -53,28 +53,15 @@
 ![image](https://github.com/dlehgus97/SHDS_Mini_Project2/assets/76528931/15246482-03b1-4f11-b489-79cfd47ed310)
 
 ## 4. 기술 스택
-
-### 프론트엔드
-- HTML5
-- CSS3
-- JavaScript
-
-### 백엔드
-- Java
-
-### 데이터베이스
-- Oracle
-
-### 기타
-- Git & GitHub
-- Visual Studio Code
-- IntelliJ IDEA
-- Discord
-- Slack
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 
+### ✔️Back-end
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
+### ✔️Database
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 
-
-
-
+### ✔️etc.
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
